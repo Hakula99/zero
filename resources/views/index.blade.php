@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -54,14 +54,14 @@
 						</li>
 						<li>
 							<a href="single.html">
-								Афиша
-								<div class="menu-item__desc">Наши постановки</div>
+								Afisha
+								<div class="menu-item__desc">Our perfomens</div>
 							</a>
 						</li>
 						<li class="dropdown">
 						<a href="archive.html" class="dropdown-toggle" data-toggle="dropdown">
-							Новости
-							<div class="menu-item__desc">Все о нас</div>
+							News
+							<div class="menu-item__desc">About for us</div>
 						</a>
 							<div class="dropdown-menu" style="margin-left: -203.625px;">
 								<div class="dropdown-inner">
@@ -91,8 +91,8 @@
 						</li>
 						<li>
 							<a href="contact.html">
-								Контакты
-								<div class="menu-item__desc">Связь с нами</div>
+								Contacts
+								<div class="menu-item__desc">get in touch</div>
 							</a>
 						</li>
 					</ul>
@@ -104,10 +104,10 @@
 		
 		<div class="header-text">
 			<div class="col-md-12 text-center">
-				<span>Место, где танец растопит ваше сердце</span>
-				<h1>Тело и Музыка переплетутся друг с другом</h1>
-				<p>театр современного танца.<br>Call (999)123-4567</p>
-				<a href="#" class="btn btn-primary btn-xl page-scroll">Узнать больше</a>
+				<span>The place where the dance will melt your heart</span>
+				<h1>body and music intertwine with each other</h1>
+				<p>Theater of modern dance.<br>Call (999)123-4567</p>
+				<a href="#" class="btn btn-primary btn-xl page-scroll">find out more</a>
 			</div>
 		</div><!-- /header-text -->
 		

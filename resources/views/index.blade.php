@@ -54,13 +54,13 @@
 						</li>
 						<li>
 							<a href="single.html">
-								About
+								Афиша
 								<div class="menu-item__desc">information about us</div>
 							</a>
 						</li>
 						<li class="dropdown">
 						<a href="archive.html" class="dropdown-toggle" data-toggle="dropdown">
-							Blog
+							Новости
 							<div class="menu-item__desc">categories</div>
 						</a>
 							<div class="dropdown-menu" style="margin-left: -203.625px;">
@@ -91,7 +91,7 @@
 						</li>
 						<li>
 							<a href="contact.html">
-								Contact
+								Контакты
 								<div class="menu-item__desc">get in touch</div>
 							</a>
 						</li>
@@ -104,10 +104,10 @@
 		
 		<div class="header-text">
 			<div class="col-md-12 text-center">
-				<span>So Yummy it will Melt Your Heart</span>
-				<h1>CHOCOLATE CAKES AND CANDIES</h1>
-				<p>A place where food and coziness compliment each other.<br>Call (999)123-4567</p>
-				<a href="#" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+				<span>Место, где танец растопит ваше сердце</span>
+				<h1>Тело и Музыка переплетутся друг с другом</h1>
+				<p>театр современного танца.<br>Call (999)123-4567</p>
+				<a href="#" class="btn btn-primary btn-xl page-scroll">Узнать больше</a>
 			</div>
 		</div><!-- /header-text -->
 		

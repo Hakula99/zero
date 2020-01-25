@@ -49,19 +49,19 @@
 						<li>
 							<a href="index.html">
 								Home
-								<div class="menu-item__desc">Dancing theme</div>
+								<div class="menu-item__desc">Главная страница</div>
 							</a>
 						</li>
 						<li>
 							<a href="single.html">
 								Афиша
-								<div class="menu-item__desc">information about us</div>
+								<div class="menu-item__desc">Наши постановки</div>
 							</a>
 						</li>
 						<li class="dropdown">
 						<a href="archive.html" class="dropdown-toggle" data-toggle="dropdown">
 							Новости
-							<div class="menu-item__desc">categories</div>
+							<div class="menu-item__desc">Все о нас</div>
 						</a>
 							<div class="dropdown-menu" style="margin-left: -203.625px;">
 								<div class="dropdown-inner">
@@ -92,7 +92,7 @@
 						<li>
 							<a href="contact.html">
 								Контакты
-								<div class="menu-item__desc">get in touch</div>
+								<div class="menu-item__desc">Связь с нами</div>
 							</a>
 						</li>
 					</ul>
